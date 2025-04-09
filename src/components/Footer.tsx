@@ -44,7 +44,7 @@ const Footer = () => {
           </div>
           
           <div>
-            <h5 className="font-semibold mb-4">Enlaces Rápidos</h5>
+            <h5 className="font-semibold mb-4">Enlaces Rápidosaaaa</h5>
             <ul className="space-y-2">
               <li>
                 <a href="#" className="text-muted-foreground hover:text-ai-purple transition-colors">Início</a>
